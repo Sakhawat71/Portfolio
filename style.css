@@ -1,0 +1,21 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.span{
+    color: brown;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+
+}
+.half-width img{
+    width: 100%;
+}
