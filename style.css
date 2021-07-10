@@ -16,6 +16,9 @@ h2{
 h3{
     font-size: 30px;
 }
+h4{
+    font-size: 20px;
+}
 .span{
     color: brown;
 }
@@ -47,4 +50,35 @@ h3{
     background-image: url(Pic/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experiences{
+
+    background-image: url(pic/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.singel-exp{
+    height: 70%;
+    box-shadow: 10px 10px 40px gray;
+    
+    background-color: white;
+}
+
+#Full{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#Baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(7, 2, 78), rgb(71, 181, 255));
+    border-image-slice: 1;
+
+
+}
+footer{
+    text-align: center;
 }
